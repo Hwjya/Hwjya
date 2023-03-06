@@ -12,5 +12,6 @@
 ## Languages and Tools
 <img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />
 <img align="left" alt="Java" width="30px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML" width="30px" src="https://cdn-icons-png.flaticon.com/512/143/143655.png" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="30px" src="https://code.visualstudio.com/assets/images/code-stable.png" style="padding-right:10px;" />
 <img align="left" alt="Apache Netbeans" width="30px" src="https://netbeans.apache.org/images/apache-netbeans.svg" style="padding-right:10px;" />
