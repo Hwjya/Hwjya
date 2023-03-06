@@ -11,3 +11,7 @@
 <img align="left" alt="HTML" width="30px" src="https://cdn-icons-png.flaticon.com/512/143/143655.png" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="30px" src="https://code.visualstudio.com/assets/images/code-stable.png" style="padding-right:10px;" />
 <img align="left" alt="Apache Netbeans" width="30px" src="https://netbeans.apache.org/images/apache-netbeans.svg" style="padding-right:10px;" />
+
+## Connect with me:
+[![website](./img/instagram-light.svg)](https://instagram.com/husaini_wjy#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/husaini_wjy#gh-dark-mode-only)
