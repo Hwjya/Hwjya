@@ -18,3 +18,4 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/husaini_wjy#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/husaini_wjy#gh-dark-mode-only)
 
+![MasterTail](https://media0.giphy.com/headers/boomerangtoons/XiGRmmjgFW79.gif)
