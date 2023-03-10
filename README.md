@@ -1,6 +1,6 @@
 # Hi there, I'm Husaini Wijaya 
 ## About Me:
-- 🔭 I’m currently studying on [Universitas Multi Data Palembang](https://www.instagram.com/universitasmdp/)
+- 🔭 I’m currently studying on [Universitas Multi Data Palembang](https://mdp.ac.id/)
 - 🌱 I’m currently learning Html and Java
 - 💬 Ask me about anything 
 - 📫 How to reach me: husainiw2020@gmail.com
