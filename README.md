@@ -1,3 +1,4 @@
+![MasterHead](https://64.media.tumblr.com/9e0d6167542dac6e43749ecb39a5f429/tumblr_n6gf95pwY21s86o8wo8_1280.png)
 # Hi there, I'm Husaini Wijaya 
 ## About Me:
 - 🔭 I’m currently studying on [Universitas Multi Data Palembang](https://mdp.ac.id/)
@@ -16,3 +17,4 @@
 ## Connect with me:
 [![website](./img/instagram-light.svg)](https://instagram.com/husaini_wjy#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/husaini_wjy#gh-dark-mode-only)
+
